@@ -1,4 +1,4 @@
-# projetoPortfolio
+# projetoPortifolio
 
 Site do meu portfólio de projetos acadêmicos e pessoais
 ## Tarefas
